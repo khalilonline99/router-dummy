@@ -1,0 +1,7 @@
+.friends-container {
+    width: 50%;
+    color: darkred;
+    border: 2px solid darkred;
+    border-radius:  15px;
+    margin: auto;
+}
