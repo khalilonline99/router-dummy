@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import './Friend.css'
 
 const Friend = ({friend}) => {
-    console.log(friend);
     return (
         <div className='friends-container'>
             <div>

@@ -1,0 +1,7 @@
+.details-container {
+    background-color: lightpink;
+    border: 2px solid darksalmon;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+}
